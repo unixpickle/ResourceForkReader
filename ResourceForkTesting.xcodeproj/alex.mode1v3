@@ -274,7 +274,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>19</integer>
+									<integer>3</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -316,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ResourceForkManager.m</string>
+								<string>ResourceForkTestingAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,21 +325,21 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ResourceForkManager.m</string>
+										<string>ResourceForkTestingAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>FA4F58EF127DCCD100DBBF3B</string>
+										<string>FA313287127DD1B300D8B3D4</string>
 										<key>history</key>
 										<array>
 											<string>FA0DDFB1127C8A84009E4EA8</string>
-											<string>FA0DE1C9127C9399009E4EA8</string>
-											<string>FA0DE1E1127C9520009E4EA8</string>
 											<string>FA0DE210127C967B009E4EA8</string>
-											<string>FA0DE24F127C989D009E4EA8</string>
-											<string>FA0DE260127C99CC009E4EA8</string>
-											<string>FA6C9EB7127CC3A600B966B7</string>
-											<string>FAA1FBC8127DB70000403322</string>
+											<string>FA313281127DD1B300D8B3D4</string>
+											<string>FA313282127DD1B300D8B3D4</string>
+											<string>FA313283127DD1B300D8B3D4</string>
+											<string>FA313284127DD1B300D8B3D4</string>
+											<string>FA313285127DD1B300D8B3D4</string>
+											<string>FA313286127DD1B300D8B3D4</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,14 +351,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 211}}</string>
+								<string>{{0, 0}, {580, 200}}</string>
 								<key>RubberWindowFrame</key>
 								<string>396 514 788 504 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>211pt</string>
+							<string>200pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -370,14 +371,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 216}, {580, 247}}</string>
+								<string>{{0, 205}, {580, 258}}</string>
 								<key>RubberWindowFrame</key>
 								<string>396 514 788 504 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>247pt</string>
+							<string>258pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -396,9 +397,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>FA4F58EA127DCC4000DBBF3B</string>
+				<string>FA31327E127DD19900D8B3D4</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>FA4F58EB127DCC4000DBBF3B</string>
+				<string>FA31327F127DD19900D8B3D4</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -536,12 +537,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>FA4F58F7127DCCD100DBBF3B</string>
-		<string>FA4F58F8127DCCD100DBBF3B</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>FA0DDFA6127C8A7A009E4EA8</string>
-		<string>/Users/alex/xCode/ResourceForkTesting/ResourceForkTesting.xcodeproj</string>
+		<string>/Users/alex/xCode/git/ResourceForkTesting/ResourceForkTesting.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>396 514 788 504 0 0 1920 1058 </string>
@@ -621,7 +618,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>FA0DDFA6127C8A7A009E4EA8</string>
-				<string>FA4F58EC127DCC4000DBBF3B</string>
+				<string>FA313280127DD19900D8B3D4</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
