@@ -1,0 +1,241 @@
+TResourceForkTesting
+v7
+r0
+t310151759.179170
+cCheck dependencies
+cProcessInfoPlistFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist ResourceForkTesting-Info.plist
+cCopyStringsFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch ResourceForkTesting_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ResourceForkTesting/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004BF4700E0000000000003A54
+t1274310670
+s14932
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/alex/Desktop/ResourceForkTesting/English.lproj/InfoPlist.strings
+c000000004CCC4EC6000000000000002D
+t1288457926
+s45
+
+N/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+c000000004CCC4EC6000000000002BBEF
+t1288457926
+s179183
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.h
+c000000004CCC516B00000000000001A6
+t1288458603
+s422
+i<Cocoa/Cocoa.h>
+i<Carbon/Carbon.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m
+c000000004CCC5264000000000000056B
+t1288458852
+s1387
+i"ResourceForkManager.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.h
+c000000004CCC4EC6000000000000015F
+t1288457926
+s351
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+c000000004CCC52C70000000000000312
+t1288458951
+s786
+i"ResourceForkTestingAppDelegate.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch
+c000000004CCC4EC600000000000000A9
+t1288457926
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+t2
+s0
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist
+t1288458954
+s922
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting
+t2
+s0
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/PkgInfo
+t1288458954
+s8
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288458954
+s92
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288458954
+s34563
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+t2
+s0
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTesting.LinkFileList
+c000000004CCC52CA00000000000001B8
+t1288458954
+s440
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+t2
+s0
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+t1288458958
+s4992
+
+N/Users/alex/Desktop/ResourceForkTesting/main.m
+c000000004CCC4EC60000000000000109
+t1288457926
+s265
+i<Cocoa/Cocoa.h>
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch
+t1288458958
+s54265616
+
+NResourceForkTesting-Info.plist
+c000000004CCC4EC600000000000003EA
+t1288457926
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310151754#310151754#0(0"0(0#1#0"7956018255696784384#0"0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151758.845806
+e310151759.179087
+r0
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+x/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager openResourceForFile:]':
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:20: error: incompatible type for argument 1 of 'FSOpenResourceFile'
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager writeDataToFile:]':
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:31: warning: passing argument 3 of 'FSWriteFork' makes integer from pointer without a cast
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager readDataFromFile]':
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:39: warning: passing argument 2 of 'FSGetForkSize' from incompatible pointer type
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:42: warning: passing argument 3 of 'FSReadFork' makes integer from pointer without a cast
+lSLF07#2@69"Compile /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310151758#310151759#0(937"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager openResourceForFile:]':/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:20: error: incompatible type for argument 1 of 'FSOpenResourceFile'/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager writeDataToFile:]':/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:31: warning: passing argument 3 of 'FSWriteFork' makes integer from pointer without a cast/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m: In function '-[ResourceForkManager readDataFromFile]':/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:39: warning: passing argument 2 of 'FSGetForkSize' from incompatible pointer type/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m:42: warning: passing argument 3 of 'FSReadFork' makes integer from pointer without a cast4(4@56"Incompatible type for argument 1 of 'FSOpenResourceFile'310151759#122#130#0(6@61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310151652#20#0#20#0#0"0(22@77"Passing argument 3 of 'FSWriteFork' makes integer from pointer without a cast310151759#370#153#0(6@61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310151652#31#0#31#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@68"Passing argument 2 of 'FSGetForkSize' from incompatible pointer type310151759#641#144#0(6@61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310151652#39#0#39#0#56"passing argument * of '*' from incompatible pointer type0(22@76"Passing argument 3 of 'FSReadFork' makes integer from pointer without a cast310151759#785#152#0(6@61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310151652#42#0#42#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m8031162178872815616#1731"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o1#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151758.687120
+e310151758.845710
+r0
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+x/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m: In function '-[ResourceForkTestingAppDelegate applicationDidFinishLaunching:]':
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: 'ResourceForkManager' undeclared (first use in this function)
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: (Each undeclared identifier is reported only once
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: for each function it appears in.)
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: 'manager' undeclared (first use in this function)
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: 'ResourceForkTestingAppDelegate' may not respond to '-dataForString:'
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: (Messages without a matching method signature
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: will be assumed to return 'id' and accept
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: '...' as arguments.)
+o/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:23: warning: unused variable 'data'
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@80"Compile /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151758#310151758#0(1395"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m: In function '-[ResourceForkTestingAppDelegate applicationDidFinishLaunching:]':/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: 'ResourceForkManager' undeclared (first use in this function)/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: (Each undeclared identifier is reported only once/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: for each function it appears in.)/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:21: error: 'manager' undeclared (first use in this function)/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: 'ResourceForkTestingAppDelegate' may not respond to '-dataForString:'/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: (Messages without a matching method signature/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: will be assumed to return 'id' and accept/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:24: warning: '...' as arguments.)/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m:23: warning: unused variable 'data'{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_05(4@61"'ResourceForkManager' undeclared (first use in this function)310151758#154#146#0(6@72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151751#21#0#21#0#43"'*' undeclared (first use in this function)0(4@49"'manager' undeclared (first use in this function)310151758#552#134#0(6@72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151751#21#0#21#0#43"'*' undeclared (first use in this function)0(22@69"'ResourceForkTestingAppDelegate' may not respond to '-dataForString:'310151758#686#156#0(6@72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151751#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)310151758#842#132#0(6@72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151751#24#0#24#0#0"0(22@22"Unused variable 'data'310151758#1209#109#0(6@72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310151751#23#0#23#0#19"unused variable '*'0(0#0#72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m8620783776#1753"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o1#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ResourceForkTesting/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151758.686226
+e310151758.875624
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+x/Users/alex/Desktop/ResourceForkTesting/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/alex/Desktop/ResourceForkTesting/main.m310151758#310151758#0(0"0(0#0#46"/Users/alex/Desktop/ResourceForkTesting/main.m8617317888#1701"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/main.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+s310151754.459518
+e310151754.855763
+r1
+xCompileXIB
+x/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310151754#310151754#0(0"0(0#0#66"/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib8590494944#379"    cd /Users/alex/Desktop/ResourceForkTesting    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/MainMenu.nib /Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s310151754.432488
+e310151754.648249
+r1
+xCopyStringsFile
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310151754#310151754#0(0"0(0#0#71"/Users/alex/Desktop/ResourceForkTesting/English.lproj/InfoPlist.strings8613903072#379"    cd /Users/alex/Desktop/ResourceForkTesting    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj0#
+
+CLd /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist ResourceForkTesting-Info.plist
+s310151754.425946
+e310151754.432229
+r1
+xProcessInfoPlistFile
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist
+xResourceForkTesting-Info.plist
+lSLF07#2@38"Process ResourceForkTesting-Info.plist310151754#310151754#0(0"0(0#0#70"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting-Info.plist32370056118796336#349"    cd /Users/alex/Desktop/ResourceForkTesting    builtin-infoPlistUtility ResourceForkTesting-Info.plist -genpkginfo /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch ResourceForkTesting_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151754.855974
+e310151758.686045
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch
+xResourceForkTesting_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ResourceForkTesting_Prefix.pch310151754#310151758#0(0"0(0#0#70"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch8624345216#1594"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch0#
+
+CTouch /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+r0
+

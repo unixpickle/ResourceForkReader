@@ -1,0 +1,499 @@
+TResourceForkTesting
+v7
+r0
+t310234191.285459
+cCheck dependencies
+cProcessInfoPlistFile /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist ResourceForkTesting-Info.plist
+cCopyStringsFile /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/alex/xCode/ResourceForkTesting/English.lproj/MainMenu.xib
+cCpResource build/Debug/ResourceForkTesting.app/Contents/Resources/drackback.png drackback.png
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch.gch ResourceForkTesting_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o /Users/alex/xCode/ResourceForkTesting/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o /Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o /Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o /Users/alex/xCode/ResourceForkTesting/DragView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting normal x86_64
+cTouch /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004BF4700E0000000000003A54
+t1274310670
+s14932
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/alex/Desktop/ResourceForkTesting/DragView.h
+c000000004CCC5B700000000000000231
+t1288461168
+s561
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/DragView.m
+c000000004CCC5B740000000000001396
+t1288461172
+s5014
+i"DragView.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/English.lproj/InfoPlist.strings
+c000000004CCC4EC6000000000000002D
+t1288457926
+s45
+
+N/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+c000000004CCC5FB6000000000002F467
+t1288462262
+s193639
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.h
+c000000004CCC610000000000000001C8
+t1288462592
+s456
+i<Cocoa/Cocoa.h>
+i<Carbon/Carbon.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m
+c000000004CCC61450000000000000965
+t1288462661
+s2405
+i"ResourceForkManager.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.h
+c000000004CCC5C0B00000000000001DA
+t1288461323
+s474
+i<Cocoa/Cocoa.h>
+i"DragView.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+c000000004CCC5E1D0000000000000473
+t1288461853
+s1139
+i"ResourceForkTestingAppDelegate.h"
+i"ResourceForkManager.h"
+
+N/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch
+c000000004CCC4EC600000000000000A9
+t1288457926
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+t1288462694
+s102
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist
+t1288458954
+s922
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting
+t1288462694
+s27288
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/PkgInfo
+t1288458954
+s8
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288458954
+s92
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288462263
+s36777
+
+N/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/drackback.png
+t1288461543
+s8775
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o
+t1288461544
+s33184
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+t1288462694
+s18452
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTesting.LinkFileList
+c000000004CCC5CE70000000000000241
+t1288461543
+s577
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+t1288462619
+s22156
+
+N/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+t1288458958
+s4992
+
+N/Users/alex/Desktop/ResourceForkTesting/drackback.png
+c000000004AFDF4660000000000002247
+t1258157158
+s8775
+
+N/Users/alex/Desktop/ResourceForkTesting/main.m
+c000000004CCC4EC60000000000000109
+t1288457926
+s265
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/xCode/ResourceForkTesting/DragView.h
+c000000004CCC5B700000000000000231
+t1288461168
+s561
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/xCode/ResourceForkTesting/DragView.m
+c000000004CCC5B740000000000001396
+t1288461172
+s5014
+i"DragView.h"
+
+N/Users/alex/xCode/ResourceForkTesting/English.lproj/InfoPlist.strings
+c000000004CCC4EC6000000000000002D
+t1288457926
+s45
+
+N/Users/alex/xCode/ResourceForkTesting/English.lproj/MainMenu.xib
+c000000004CCC5FB6000000000002F467
+t1288462262
+s193639
+
+N/Users/alex/xCode/ResourceForkTesting/ResourceForkManager.h
+c000000004CCC610000000000000001C8
+t1288462592
+s456
+i<Cocoa/Cocoa.h>
+i<Carbon/Carbon.h>
+
+N/Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m
+c000000004CCC61450000000000000965
+t1288462661
+s2405
+i"ResourceForkManager.h"
+
+N/Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.h
+c000000004CCC5C0B00000000000001DA
+t1288461323
+s474
+i<Cocoa/Cocoa.h>
+i"DragView.h"
+
+N/Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+c000000004CCC5E1D0000000000000473
+t1288461853
+s1139
+i"ResourceForkTestingAppDelegate.h"
+i"ResourceForkManager.h"
+
+N/Users/alex/xCode/ResourceForkTesting/ResourceForkTesting_Prefix.pch
+c000000004CCC4EC600000000000000A9
+t1288457926
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+t1288541391
+s102
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist
+t1288458954
+s922
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting
+t1288541391
+s27272
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/PkgInfo
+t1288458954
+s8
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288458954
+s92
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288462263
+s36777
+
+N/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/drackback.png
+t1288461543
+s8775
+
+N/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o
+t1288541390
+s33176
+
+N/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+t1288541390
+s18452
+
+N/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTesting.LinkFileList
+c000000004CCD94C50000000000000239
+t1288541381
+s569
+
+N/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+t1288541389
+s22156
+
+N/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+t1288541389
+s4984
+
+N/Users/alex/xCode/ResourceForkTesting/drackback.png
+c000000004AFDF4660000000000002247
+t1258157158
+s8775
+
+N/Users/alex/xCode/ResourceForkTesting/main.m
+c000000004CCC4EC60000000000000109
+t1288457926
+s265
+i<Cocoa/Cocoa.h>
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch
+t1288458958
+s54265616
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch.gch
+t1288541389
+s54265616
+
+NResourceForkTesting-Info.plist
+c000000004CCC4EC600000000000003EA
+t1288457926
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310234181#310234181#0(0"0(0#1#0"7956018255696784384#0"0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o /Users/alex/Desktop/ResourceForkTesting/DragView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310154344.533528
+e310154344.947862
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o
+x/Users/alex/Desktop/ResourceForkTesting/DragView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/alex/Desktop/ResourceForkTesting/DragView.m310154344#310154344#0(0"0(0#0#50"/Users/alex/Desktop/ResourceForkTesting/DragView.m8621714624#1709"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/DragView.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o /Users/alex/xCode/ResourceForkTesting/DragView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310234190.007839
+e310234190.196341
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o
+x/Users/alex/xCode/ResourceForkTesting/DragView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/alex/xCode/ResourceForkTesting/DragView.m310234190#310234190#0(0"0(0#0#48"/Users/alex/xCode/ResourceForkTesting/DragView.m8601432032#1687"    cd /Users/alex/xCode/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/xCode/ResourceForkTesting/build/Debug -I/Users/alex/xCode/ResourceForkTesting/build/Debug/include -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch -c /Users/alex/xCode/ResourceForkTesting/DragView.m -o /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/DragView.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310155494.639180
+e310155494.918698
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+x/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m310155494#310155494#0(0"0(0#0#61"/Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m8670165312#1731"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkManager.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o /Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310234189.676522
+e310234190.057565
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o
+x/Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m310234189#310234190#0(0"0(0#0#59"/Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m8601435648#1709"    cd /Users/alex/xCode/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/xCode/ResourceForkTesting/build/Debug -I/Users/alex/xCode/ResourceForkTesting/build/Debug/include -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch -c /Users/alex/xCode/ResourceForkTesting/ResourceForkManager.m -o /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkManager.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310155419.341294
+e310155419.687372
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+x/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m310155419#310155419#0(0"0(0#0#72"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m8629746944#1753"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkTestingAppDelegate.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o /Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310234189.484554
+e310234190.007722
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o
+x/Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m310234189#310234190#0(0"0(0#0#70"/Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m8600909472#1731"    cd /Users/alex/xCode/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/xCode/ResourceForkTesting/build/Debug -I/Users/alex/xCode/ResourceForkTesting/build/Debug/include -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch -c /Users/alex/xCode/ResourceForkTesting/ResourceForkTestingAppDelegate.m -o /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTestingAppDelegate.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ResourceForkTesting/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151758.686226
+e310151758.875624
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+x/Users/alex/Desktop/ResourceForkTesting/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/alex/Desktop/ResourceForkTesting/main.m310151758#310151758#0(0"0(0#0#46"/Users/alex/Desktop/ResourceForkTesting/main.m8617317888#1701"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch -c /Users/alex/Desktop/ResourceForkTesting/main.m -o /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o /Users/alex/xCode/ResourceForkTesting/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310234189.482882
+e310234189.676377
+r1
+xCompileC
+xbuild/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o
+x/Users/alex/xCode/ResourceForkTesting/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/alex/xCode/ResourceForkTesting/main.m310234189#310234189#0(0"0(0#0#44"/Users/alex/xCode/ResourceForkTesting/main.m8601057888#1679"    cd /Users/alex/xCode/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/xCode/ResourceForkTesting/build/Debug -I/Users/alex/xCode/ResourceForkTesting/build/Debug/include -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch -c /Users/alex/xCode/ResourceForkTesting/main.m -o /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+s310155063.241440
+e310155063.588943
+r1
+xCompileXIB
+x/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310155063#310155063#0(0"0(0#0#66"/Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib8633065408#379"    cd /Users/alex/Desktop/ResourceForkTesting    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/MainMenu.nib /Users/alex/Desktop/ResourceForkTesting/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/alex/xCode/ResourceForkTesting/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s310151754.432488
+e310151754.648249
+r1
+xCopyStringsFile
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310151754#310151754#0(0"0(0#0#71"/Users/alex/Desktop/ResourceForkTesting/English.lproj/InfoPlist.strings8613903072#379"    cd /Users/alex/Desktop/ResourceForkTesting    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/ResourceForkTesting.app/Contents/Resources/drackback.png drackback.png
+s310154343.944318
+e310154343.986137
+r1
+xCpResource
+xbuild/Debug/ResourceForkTesting.app/Contents/Resources/drackback.png
+xdrackback.png
+lSLF07#2@18"Copy drackback.png310154343#310154343#0(0"0(0#0#53"/Users/alex/Desktop/ResourceForkTesting/drackback.png32370056119910512#344"    cd /Users/alex/Desktop/ResourceForkTesting    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/alex/Desktop/ResourceForkTesting/drackback.png /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Resources0#
+
+CLd /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting normal x86_64
+s310155494.918784
+e310155494.957240
+r1
+xLd
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting
+xnormal
+xx86_64
+lSLF07#2@115"Link /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting310155494#310155494#0(0"0(0#0#0"8663463104#625"    cd /Users/alex/Desktop/ResourceForkTesting    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/ResourceForkTesting/build/Debug -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -filelist /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTesting.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Carbon -o /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting0#
+
+CLd /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting normal x86_64
+s310234190.196436
+e310234191.282435
+r1
+xLd
+x/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting
+xnormal
+xx86_64
+lSLF07#2@113"Link /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting310234190#310234191#0(0"0(0#0#0"8601190400#615"    cd /Users/alex/xCode/ResourceForkTesting    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/alex/xCode/ResourceForkTesting/build/Debug -F/Users/alex/xCode/ResourceForkTesting/build/Debug -filelist /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/Objects-normal/x86_64/ResourceForkTesting.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Carbon -o /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/MacOS/ResourceForkTesting0#
+
+CProcessInfoPlistFile /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist ResourceForkTesting-Info.plist
+s310151754.425946
+e310151754.432229
+r1
+xProcessInfoPlistFile
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist
+xResourceForkTesting-Info.plist
+lSLF07#2@38"Process ResourceForkTesting-Info.plist310151754#310151754#0(0"0(0#0#70"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting-Info.plist32370056118796336#349"    cd /Users/alex/Desktop/ResourceForkTesting    builtin-infoPlistUtility ResourceForkTesting-Info.plist -genpkginfo /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app/Contents/Info.plist ResourceForkTesting-Info.plist
+r0
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch ResourceForkTesting_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310151754.855974
+e310151758.686045
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch
+xResourceForkTesting_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ResourceForkTesting_Prefix.pch310151754#310151758#0(0"0(0#0#70"/Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch8624345216#1594"    cd /Users/alex/Desktop/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/Desktop/ResourceForkTesting/build/Debug -I/Users/alex/Desktop/ResourceForkTesting/build/Debug/include -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -c /Users/alex/Desktop/ResourceForkTesting/ResourceForkTesting_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-dkszphdtwnkdmehhwcwkgvfsrmih/ResourceForkTesting_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch.gch ResourceForkTesting_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310234181.493582
+e310234189.482621
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch.gch
+xResourceForkTesting_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ResourceForkTesting_Prefix.pch310234181#310234189#0(0"0(0#0#68"/Users/alex/xCode/ResourceForkTesting/ResourceForkTesting_Prefix.pch8018207664376213504#1574"    cd /Users/alex/xCode/ResourceForkTesting    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-generated-files.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-own-target-headers.hmap -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-all-target-headers.hmap -iquote /Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/ResourceForkTesting-project-headers.hmap -F/Users/alex/xCode/ResourceForkTesting/build/Debug -I/Users/alex/xCode/ResourceForkTesting/build/Debug/include -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources/x86_64 -I/Users/alex/xCode/ResourceForkTesting/build/ResourceForkTesting.build/Debug/ResourceForkTesting.build/DerivedSources -c /Users/alex/xCode/ResourceForkTesting/ResourceForkTesting_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ResourceForkTesting_Prefix-gdmhqesjsrcvohcxsosfgkuiaaai/ResourceForkTesting_Prefix.pch.gch0#
+
+CTouch /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+s310155494.957344
+e310155494.959812
+r1
+xTouch
+x/Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+lSLF07#2@81"Touch /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app310155494#310155494#0(0"0(0#0#0"8638010688#145"    cd /Users/alex/Desktop/ResourceForkTesting    /usr/bin/touch -c /Users/alex/Desktop/ResourceForkTesting/build/Debug/ResourceForkTesting.app0#
+
+CTouch /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+s310234191.282591
+e310234191.285422
+r1
+xTouch
+x/Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app
+lSLF07#2@79"Touch /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app310234191#310234191#0(0"0(0#0#0"8603700672#141"    cd /Users/alex/xCode/ResourceForkTesting    /usr/bin/touch -c /Users/alex/xCode/ResourceForkTesting/build/Debug/ResourceForkTesting.app0#
+
